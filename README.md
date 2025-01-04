@@ -58,8 +58,8 @@ ForoHub es una API REST desarrollada con Spring Boot que permite gestionar un fo
 
 2. Configura el archivo `application.properties` para conectar con tu base de datos MySQL:
    ```properties
-   spring.datasource.url=jdbc:mysql://localhost:3306/forohub
-spring.datasource.username=root
+   spring.datasource.url=jdbc:mysql://localhost:3306/nombredebasededatos
+spring.datasource.username=tu_usuario
 spring.datasource.password=*****
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 

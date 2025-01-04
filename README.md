@@ -53,7 +53,7 @@ ForoHub es una API REST desarrollada con Spring Boot que permite gestionar un fo
 ### Configuración Inicial
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/ForoHub.git
+   git clone https://github.com/tu-usuario/challenge-foro-hub.git  
    ```
 
 2. Configura el archivo `application.properties` para conectar con tu base de datos MySQL:
